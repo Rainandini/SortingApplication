@@ -1,0 +1,4 @@
+com\example\SortingApp\services\SortingService.class
+com\example\SortingApp\controller\SortingController.class
+com\example\SortingApp\model\SortingRequest.class
+com\example\SortingApp\SortingAppApplication.class
